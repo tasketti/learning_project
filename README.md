@@ -1,5 +1,5 @@
 # learning_project
 ## Используются технологии:
--HTML
--CSS
--Bootstrap v5
+- HTML
+- CSS
+- Bootstrap v5
